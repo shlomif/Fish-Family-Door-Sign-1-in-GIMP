@@ -1,0 +1,7 @@
+=encoding utf8
+
+=head1 Fish Family Door Sign.
+
+These are old sources for the door sign of the Fish family.
+
+=cut
